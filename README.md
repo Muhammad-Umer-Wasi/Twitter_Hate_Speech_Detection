@@ -1,7 +1,6 @@
 # Twitter_Hate_Speech_Detection
 Combatting Hate on Twitter: Our AI-powered project detects and filters hate speech, fostering a safer and inclusive social media experience.
 
-[Description:]
 Twitter Hate Speech Detection is a machine learning project that aims to identify and classify hateful or offensive content in tweets. Hate speech on social media platforms like Twitter can have serious consequences, including the spread of harmful ideologies, harassment, and online bullying. This project addresses the critical need to create automated tools that can detect and mitigate hate speech to promote a safer and more inclusive online environment.
 
 The project leverages natural language processing (NLP) techniques and machine learning algorithms to analyze the text content of tweets and determine whether they contain hate speech or offensive language. It involves data preprocessing steps such as tokenization, stemming, and removing stop words to convert raw text data into a format suitable for machine learning models.
